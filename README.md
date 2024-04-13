@@ -33,7 +33,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/Faizan7012/busy-plough-6714.git
+  git clone https://github.com/Sakil9051/Medshoppe.git
 ```
 
 Go to the project directory
